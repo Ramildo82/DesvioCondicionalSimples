@@ -1,0 +1,14 @@
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\Modulo Logica de programação\M Logica Projetos\IdadeJogador\IdadeJogador\bin\Debug\netcoreapp3.1\IdadeJogador.exe
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\Modulo Logica de programação\M Logica Projetos\IdadeJogador\IdadeJogador\bin\Debug\netcoreapp3.1\IdadeJogador.deps.json
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\Modulo Logica de programação\M Logica Projetos\IdadeJogador\IdadeJogador\bin\Debug\netcoreapp3.1\IdadeJogador.runtimeconfig.json
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\Modulo Logica de programação\M Logica Projetos\IdadeJogador\IdadeJogador\bin\Debug\netcoreapp3.1\IdadeJogador.runtimeconfig.dev.json
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\Modulo Logica de programação\M Logica Projetos\IdadeJogador\IdadeJogador\bin\Debug\netcoreapp3.1\IdadeJogador.dll
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\Modulo Logica de programação\M Logica Projetos\IdadeJogador\IdadeJogador\bin\Debug\netcoreapp3.1\IdadeJogador.pdb
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\Modulo Logica de programação\M Logica Projetos\IdadeJogador\IdadeJogador\obj\Debug\netcoreapp3.1\IdadeJogador.csproj.AssemblyReference.cache
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\Modulo Logica de programação\M Logica Projetos\IdadeJogador\IdadeJogador\obj\Debug\netcoreapp3.1\IdadeJogador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\Modulo Logica de programação\M Logica Projetos\IdadeJogador\IdadeJogador\obj\Debug\netcoreapp3.1\IdadeJogador.AssemblyInfoInputs.cache
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\Modulo Logica de programação\M Logica Projetos\IdadeJogador\IdadeJogador\obj\Debug\netcoreapp3.1\IdadeJogador.AssemblyInfo.cs
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\Modulo Logica de programação\M Logica Projetos\IdadeJogador\IdadeJogador\obj\Debug\netcoreapp3.1\IdadeJogador.csproj.CoreCompileInputs.cache
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\Modulo Logica de programação\M Logica Projetos\IdadeJogador\IdadeJogador\obj\Debug\netcoreapp3.1\IdadeJogador.dll
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\Modulo Logica de programação\M Logica Projetos\IdadeJogador\IdadeJogador\obj\Debug\netcoreapp3.1\IdadeJogador.pdb
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\Modulo Logica de programação\M Logica Projetos\IdadeJogador\IdadeJogador\obj\Debug\netcoreapp3.1\IdadeJogador.genruntimeconfig.cache
